@@ -60,7 +60,7 @@ So the main things are,
    https://yeswehack.com
 
    ![yeswehack](/img/yeswehack.jpg)
-# ______________________________________________________________________
+# _________________________________________________________
 
 # Best Chrome/Firefox Add-ons:
 
